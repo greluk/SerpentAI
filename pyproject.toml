@@ -6,8 +6,8 @@ readme = "README.md"
 authors = ["Nicholas Brochu <nicholas@serpent.ai>"]
 license = "MIT"
 homepage = "https://serpent.ai"
-repository = "https://github.com/SerpentAI/SerpentAI"
-documentation = "https://github.com/SerpentAI/SerpentAI/wiki"
+repository = "https://github.com/greluk/SerpentAI"
+documentation = "https://github.com/greluk/SerpentAIwiki"
 keywords = ["AI", "Artificial Intelligence", "Machine Learning", "Reinforcement Learning", "Games"]
 classifiers = [
     "Development Status :: 5 - Production/Stable",
